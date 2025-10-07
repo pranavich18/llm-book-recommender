@@ -2,6 +2,9 @@
 
 A lightweight system that leverages large language models (LLMs) to provide personalized book recommendations. Built in Python with interactive components via Gradio.
 
+<img width="1440" height="900" alt="Screenshot 2025-10-07 at 1 37 40 PM" src="https://github.com/user-attachments/assets/c378df6d-7376-44ff-8805-2ac9d22b2ecc" />
+
+
 ## Project Overview
 
 This project demonstrates how to build a recommendation engine using LLMs and vector search techniques. It supports:  
